@@ -1,0 +1,25 @@
+BaugruppeHalter01.iam
+BaugruppeHalter01.idw
+BaugruppeHalter02.iam           zusammengesetzter Halter
+BaugruppeHalter02.idw           --Zeichnung von Explosion des zusammengesetzten Halters (BaugruppeHalter02.ipn) zum Überblick
+BaugruppeHalter02.ipn           Explosion des zusammengesetzten Halters (Halter02.ipt, Kopf02.ipt, Gabel02.ipt, Griff01.ipt, Stift01.ipt)
+Gabel01.ipt
+Gabel02.ipt                     Gabel mit einer Bohrung zum halten der Probe im Kopf
+Griff01.ipt                     PVC-Griff zur Isolation
+Halter.ipj                      Projektdatei?
+Halter01.idw
+Halter01.ipt
+Halter01.prn
+Halter02.idw
+Halter02.ipt                    Konstruktion des Halterhauptstücks
+Halter022.idw                   --Zeichnung des Halters in all seinen Einzelteilen (Halter02.ipt, Kopf02.ipt, Gabel02.ipt, Griff01.ipt)
+Halter03.zip
+Kopf01.ipt
+Kopf02.ipt                      Konstruktion des Halterkopfes
+OldVersions
+Rohhalter01.ide
+Rohhalter01.idw
+Rohhalter01.ipt
+Rohhalter02.ipt
+Stift01.ipt                     Konstruktion des Hebelstifts
+
