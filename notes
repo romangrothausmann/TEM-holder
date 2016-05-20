@@ -1,0 +1,22 @@
+
+
+STLs can be imported in Blender
+PDFs can be imported in Inkscape
+
+
+Halter_expl.stl:      Halter_expl.iam  # 3D assembly
+Halter_expl.idw.pdf:  Halter_expl.idw  # 2D tech. drawing
+Halter_expl.ipn.dwf:  Halter_expl.ipn  # 3D explosion of Halter_expl.iam
+
+Halter.idw.pdf:       Halter.idw       # 2D tech. drawing
+
+
+DWFs can hold 2D or 3D data
+STL export of Halter_expl.ipn was not possible, convert Halter_expl.ipn.dwf to STL
+
+
+actual naming should be:
+
+Halter.idw -> Halter2.idw
+Halter_expl.idw -> Halter1.idw
+Halter_expl.* -> Halter.*
