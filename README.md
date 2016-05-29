@@ -1,6 +1,6 @@
 # TEM-holder
 
-<img src="PNGs/BaugruppeHalter02_01.png" width="200"><img src="PDFs/Halter.idw.pdf" width="200">
+<img src="PNGs/BaugruppeHalter02_01.png" width="200"><img src="PDFs/Halter.idw.svg" width="200">
 
 [construction instructions](PDFs/Halter.idw.pdf), [3D view](STLs/Halter_expl.stl)
 
